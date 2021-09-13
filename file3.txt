@@ -1,1 +1,5 @@
 adden new ork on file 3
+
+started compoment 1
+
+started compoment 2
